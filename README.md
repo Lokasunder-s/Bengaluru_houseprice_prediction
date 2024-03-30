@@ -1,4 +1,4 @@
-**Bengaluru House Price Prediction **
+# Bengaluru House Price Prediction
 
 **1. Introduction:**
 - The house price prediction project aims to develop a predictive model that can estimate housing prices in Bangalore, India. With the real estate market in Bangalore experiencing rapid growth and fluctuations, accurately predicting house prices is crucial for buyers, sellers, and real estate professionals alike.
